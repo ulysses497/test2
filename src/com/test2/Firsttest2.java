@@ -3,7 +3,7 @@ package com.test2;
 public class Firsttest2 {
     private String test2;
     private String test3;
-
+    private String test5;
     public String getTest2() {
         return test2;
     }
