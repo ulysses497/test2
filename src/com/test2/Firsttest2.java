@@ -4,6 +4,7 @@ public class Firsttest2 {
     private String test2;
     private String test3;
     private String test5;
+    private String test6;
     public String getTest2() {
         return test2;
     }
